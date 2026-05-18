@@ -15,7 +15,7 @@ INSERT INTO Comments(postId, userId, content, createdAt) VALUES (1, 3, 'Love thi
 INSERT INTO Likes(postId, userId, createdAt) VALUES (1, 2, '2026-05-11 12:30:00');
 
 --עדכון bio של משתמש
-UPDATE Users SET bio = 'Full Stack Developer' WHERE id = 1;
+UPDATE Users SET bio = 'Matematica' WHERE id = 1;
 
 --עדכון caption של פוסט
 UPDATE Posts SET caption = 'Updated caption' WHERE id = 1;

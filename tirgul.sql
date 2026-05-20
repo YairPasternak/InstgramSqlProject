@@ -2,4 +2,4 @@
 
 
 
-DELETE FROM Comments WHERE id = 1;
+DELETE FROM Comments WHERE id = 3;
